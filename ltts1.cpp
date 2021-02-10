@@ -18,6 +18,10 @@ int s;
 s=n+m;
 return s;
 }
+void func()
+{
+printf("IT's a new function");
+}
   
   
 }

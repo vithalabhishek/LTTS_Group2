@@ -22,6 +22,10 @@ void func()
 {
 printf("IT's a new function");
 }
-  
+int mult(int a, int b)
+{
+ int m=a*b;
+ return m;
+ }
   
 }
